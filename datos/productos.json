@@ -33,5 +33,12 @@
         "categoria": "Platos Fuertes",
         "precio": 1.75,
         "stock": 30
+    },
+    {
+        "id_producto": "P06",
+        "nombre": "Jugo Natural",
+        "categoria": "Platos Fuertes",
+        "precio": 2.0,
+        "stock": 15
     }
 ]
